@@ -115,7 +115,34 @@ print("Test_accuracy :",sess.run(accuracy,feed_dict={X:mnist.test.images,Y:mnist
 
 
 
-
+Epoch : 0001 Train_cost  1.182139
+Epoch : 0002 Train_cost  0.664811
+Epoch : 0003 Train_cost  0.552634
+Epoch : 0004 Train_cost  0.498518
+Epoch : 0005 Train_cost  0.465431
+Epoch : 0006 Train_cost  0.442534
+Epoch : 0007 Train_cost  0.425447
+Epoch : 0008 Train_cost  0.412136
+Epoch : 0009 Train_cost  0.401330
+Epoch : 0010 Train_cost  0.392388
+Epoch : 0011 Train_cost  0.384719
+Epoch : 0012 Train_cost  0.378171
+Epoch : 0013 Train_cost  0.372416
+Epoch : 0014 Train_cost  0.367238
+Epoch : 0015 Train_cost  0.362694
+Epoch : 0016 Train_cost  0.358609
+Epoch : 0017 Train_cost  0.354874
+Epoch : 0018 Train_cost  0.351399
+Epoch : 0019 Train_cost  0.348344
+Epoch : 0020 Train_cost  0.345431
+Epoch : 0021 Train_cost  0.342731
+Epoch : 0022 Train_cost  0.340269
+Epoch : 0023 Train_cost  0.337952
+Epoch : 0024 Train_cost  0.335766
+Epoch : 0025 Train_cost  0.333705
+Optimization finished!
+Train_accuracy : 0.907927
+Test_accuracy : 0.9146
 
 
 
